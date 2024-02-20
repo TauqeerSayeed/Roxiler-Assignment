@@ -8,8 +8,8 @@ This is the frontend service for your application. It provides a user interface 
 
 To get started with the frontend service, follow these steps:
 
-1. Clone the repository: ``
-2. Change directory: `cd roxiler-frontend-assignment`
+1. Clone the repository: `https://github.com/TauqeerSayeed/Roxiler-Assignment/tree/main/roxiler-frontend`
+2. Change directory: `cd roxiler-frontend`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 
