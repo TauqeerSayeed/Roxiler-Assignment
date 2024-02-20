@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "prisma": {
+    "seed": "node prisma/seed.js"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "md-abid-hussain",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.9.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "prisma": "^5.9.1"
+  }
+}
