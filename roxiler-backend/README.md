@@ -5,7 +5,7 @@
 
 To get started with the backend service, follow these steps:
 
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/TauqeerSayeed/Roxiler-Assignment/tree/main/roxiler-backend`
 2. Change directory: `cd roxiler-backend-assignment`
 3. Install dependencies: `npm install`
 4. Set up mongodb database
